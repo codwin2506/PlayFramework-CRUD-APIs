@@ -1,4 +1,4 @@
-name := """recipes"""
+name := """PlayFrameworkCRUD"""
 organization := "com.github.plippe"
 
 version := "1.0-SNAPSHOT"
