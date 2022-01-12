@@ -1,5 +1,5 @@
 name := """PlayFrameworkCRUD"""
-organization := "com.github.plippe"
+organization := "com.knoldus"
 
 version := "1.0-SNAPSHOT"
 
